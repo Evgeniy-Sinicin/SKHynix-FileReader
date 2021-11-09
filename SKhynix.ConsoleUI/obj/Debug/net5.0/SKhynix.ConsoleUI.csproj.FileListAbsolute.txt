@@ -1,0 +1,16 @@
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\bin\Debug\net5.0\SKhynix.ConsoleUI.exe
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\bin\Debug\net5.0\SKhynix.ConsoleUI.deps.json
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\bin\Debug\net5.0\SKhynix.ConsoleUI.runtimeconfig.json
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\bin\Debug\net5.0\SKhynix.ConsoleUI.runtimeconfig.dev.json
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\bin\Debug\net5.0\SKhynix.ConsoleUI.dll
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\bin\Debug\net5.0\ref\SKhynix.ConsoleUI.dll
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\bin\Debug\net5.0\SKhynix.ConsoleUI.pdb
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.csprojAssemblyReference.cache
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.AssemblyInfoInputs.cache
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.AssemblyInfo.cs
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.csproj.CoreCompileInputs.cache
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.dll
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\ref\SKhynix.ConsoleUI.dll
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.pdb
+D:\STUDY\PROGRAMMING\C#\SKhynix\SKhynix.ConsoleUI\obj\Debug\net5.0\SKhynix.ConsoleUI.genruntimeconfig.cache
